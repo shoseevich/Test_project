@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-08-22T09:17:27+02:00">
+  <shop>
+    <name>Мой Интернет-магазин</name>
+    <company>Моя Компания</company>
+    <url>https://example.com</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Футболки</category>
+      <category id="2">Джинсы</category>
+      <category id="3">Куртки</category>
+      <category id="4">Обувь</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <name>Удобная Футболка</name>
+        <categoryId>1</categoryId>
+        <price>8576</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>30</stock_quantity>
+      </offer>
+      <offer id="2" available="true">
+        <name>Прочные Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>6436</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>16</stock_quantity>
+      </offer>
+      <offer id="3" available="true">
+        <name>Модные Ботинки</name>
+        <categoryId>1</categoryId>
+        <price>8103</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>37</stock_quantity>
+      </offer>
+      <offer id="4" available="true">
+        <name>Красивая Куртка</name>
+        <categoryId>4</categoryId>
+        <price>4398</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>6</stock_quantity>
+      </offer>
+      <offer id="5" available="true">
+        <name>Красивые Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>7232</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>13</stock_quantity>
+      </offer>
+      <offer id="6" available="true">
+        <name>Модные Ботинки</name>
+        <categoryId>2</categoryId>
+        <price>5106</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>14</stock_quantity>
+      </offer>
+      <offer id="7" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>4</categoryId>
+        <price>3179</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>21</stock_quantity>
+      </offer>
+      <offer id="8" available="true">
+        <name>Красивые Кроссовки</name>
+        <categoryId>3</categoryId>
+        <price>6056</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>25</stock_quantity>
+      </offer>
+      <offer id="9" available="true">
+        <name>Модные Ботинки</name>
+        <categoryId>2</categoryId>
+        <price>2806</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>50</stock_quantity>
+      </offer>
+      <offer id="10" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>3736</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>24</stock_quantity>
+      </offer>
+      <offer id="11" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>9738</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>36</stock_quantity>
+      </offer>
+      <offer id="12" available="true">
+        <name>Модные Кроссовки</name>
+        <categoryId>1</categoryId>
+        <price>4416</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>37</stock_quantity>
+      </offer>
+      <offer id="13" available="true">
+        <name>Красивые Джинсы</name>
+        <categoryId>3</categoryId>
+        <price>6040</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>45</stock_quantity>
+      </offer>
+      <offer id="14" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>1</categoryId>
+        <price>8184</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>8</stock_quantity>
+      </offer>
+      <offer id="15" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>3</categoryId>
+        <price>5547</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="16" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>3</categoryId>
+        <price>536</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>30</stock_quantity>
+      </offer>
+      <offer id="17" available="true">
+        <name>Прочная Куртка</name>
+        <categoryId>1</categoryId>
+        <price>5655</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>17</stock_quantity>
+      </offer>
+      <offer id="18" available="true">
+        <name>Модная Футболка</name>
+        <categoryId>4</categoryId>
+        <price>9705</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>41</stock_quantity>
+      </offer>
+      <offer id="19" available="true">
+        <name>Красивые Кроссовки</name>
+        <categoryId>3</categoryId>
+        <price>8402</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>45</stock_quantity>
+      </offer>
+      <offer id="20" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>2</categoryId>
+        <price>8327</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>37</stock_quantity>
+      </offer>
+      <offer id="21" available="true">
+        <name>Прочные Кроссовки</name>
+        <categoryId>2</categoryId>
+        <price>5602</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>7</stock_quantity>
+      </offer>
+      <offer id="22" available="true">
+        <name>Красивые Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>1653</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>38</stock_quantity>
+      </offer>
+      <offer id="23" available="true">
+        <name>Прочные Кроссовки</name>
+        <categoryId>4</categoryId>
+        <price>2918</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>42</stock_quantity>
+      </offer>
+      <offer id="24" available="true">
+        <name>Красивые Кроссовки</name>
+        <categoryId>1</categoryId>
+        <price>5124</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>27</stock_quantity>
+      </offer>
+      <offer id="25" available="true">
+        <name>Удобная Футболка</name>
+        <categoryId>3</categoryId>
+        <price>2809</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>48</stock_quantity>
+      </offer>
+      <offer id="26" available="true">
+        <name>Прочная Футболка</name>
+        <categoryId>1</categoryId>
+        <price>7879</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>12</stock_quantity>
+      </offer>
+      <offer id="27" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>8074</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>23</stock_quantity>
+      </offer>
+      <offer id="28" available="true">
+        <name>Прочная Футболка</name>
+        <categoryId>4</categoryId>
+        <price>8763</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>19</stock_quantity>
+      </offer>
+      <offer id="29" available="true">
+        <name>Модная Футболка</name>
+        <categoryId>2</categoryId>
+        <price>6526</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>5</stock_quantity>
+      </offer>
+      <offer id="30" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>3</categoryId>
+        <price>1170</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>49</stock_quantity>
+      </offer>
+      <offer id="31" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>4</categoryId>
+        <price>3525</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>41</stock_quantity>
+      </offer>
+      <offer id="32" available="true">
+        <name>Модная Куртка</name>
+        <categoryId>2</categoryId>
+        <price>4648</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>32</stock_quantity>
+      </offer>
+      <offer id="33" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>3</categoryId>
+        <price>5449</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>19</stock_quantity>
+      </offer>
+      <offer id="34" available="true">
+        <name>Модные Ботинки</name>
+        <categoryId>2</categoryId>
+        <price>6460</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>45</stock_quantity>
+      </offer>
+      <offer id="35" available="true">
+        <name>Прочные Джинсы</name>
+        <categoryId>3</categoryId>
+        <price>1123</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>22</stock_quantity>
+      </offer>
+      <offer id="36" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>2</categoryId>
+        <price>1994</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>47</stock_quantity>
+      </offer>
+      <offer id="37" available="true">
+        <name>Модная Футболка</name>
+        <categoryId>2</categoryId>
+        <price>3806</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>40</stock_quantity>
+      </offer>
+      <offer id="38" available="true">
+        <name>Прочные Ботинки</name>
+        <categoryId>2</categoryId>
+        <price>7832</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>49</stock_quantity>
+      </offer>
+      <offer id="39" available="true">
+        <name>Прочная Футболка</name>
+        <categoryId>4</categoryId>
+        <price>7448</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>40</stock_quantity>
+      </offer>
+      <offer id="40" available="true">
+        <name>Красивые Кроссовки</name>
+        <categoryId>1</categoryId>
+        <price>5116</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>23</stock_quantity>
+      </offer>
+      <offer id="41" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>2</categoryId>
+        <price>4769</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>5</stock_quantity>
+      </offer>
+      <offer id="42" available="true">
+        <name>Модная Футболка</name>
+        <categoryId>3</categoryId>
+        <price>1111</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>41</stock_quantity>
+      </offer>
+      <offer id="43" available="true">
+        <name>Прочные Ботинки</name>
+        <categoryId>1</categoryId>
+        <price>8025</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>47</stock_quantity>
+      </offer>
+      <offer id="44" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>2</categoryId>
+        <price>5047</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>43</stock_quantity>
+      </offer>
+      <offer id="45" available="true">
+        <name>Удобная Куртка</name>
+        <categoryId>2</categoryId>
+        <price>3518</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>26</stock_quantity>
+      </offer>
+      <offer id="46" available="true">
+        <name>Красивые Кроссовки</name>
+        <categoryId>3</categoryId>
+        <price>1970</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>13</stock_quantity>
+      </offer>
+      <offer id="47" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>3258</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>27</stock_quantity>
+      </offer>
+      <offer id="48" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>2</categoryId>
+        <price>9774</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>7</stock_quantity>
+      </offer>
+      <offer id="49" available="true">
+        <name>Красивые Ботинки</name>
+        <categoryId>2</categoryId>
+        <price>9770</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>40</stock_quantity>
+      </offer>
+      <offer id="50" available="true">
+        <name>Удобные Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>8685</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>6</stock_quantity>
+      </offer>
+      <offer id="51" available="true">
+        <name>Красивая Куртка</name>
+        <categoryId>4</categoryId>
+        <price>8328</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>10</stock_quantity>
+      </offer>
+      <offer id="52" available="true">
+        <name>Удобные Джинсы</name>
+        <categoryId>4</categoryId>
+        <price>7895</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>42</stock_quantity>
+      </offer>
+      <offer id="53" available="true">
+        <name>Модные Кроссовки</name>
+        <categoryId>1</categoryId>
+        <price>6183</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>32</stock_quantity>
+      </offer>
+      <offer id="54" available="true">
+        <name>Красивые Кроссовки</name>
+        <categoryId>2</categoryId>
+        <price>3533</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="55" available="true">
+        <name>Прочная Футболка</name>
+        <categoryId>3</categoryId>
+        <price>3166</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>26</stock_quantity>
+      </offer>
+      <offer id="56" available="true">
+        <name>Стильная Футболка</name>
+        <categoryId>4</categoryId>
+        <price>2900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>44</stock_quantity>
+      </offer>
+      <offer id="57" available="true">
+        <name>Удобная Футболка</name>
+        <categoryId>4</categoryId>
+        <price>8397</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>39</stock_quantity>
+      </offer>
+      <offer id="58" available="true">
+        <name>Красивые Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>9748</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>31</stock_quantity>
+      </offer>
+      <offer id="59" available="true">
+        <name>Прочная Футболка</name>
+        <categoryId>2</categoryId>
+        <price>5556</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="60" available="true">
+        <name>Прочная Футболка</name>
+        <categoryId>1</categoryId>
+        <price>2348</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="61" available="true">
+        <name>Красивые Кроссовки</name>
+        <categoryId>4</categoryId>
+        <price>7779</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>40</stock_quantity>
+      </offer>
+      <offer id="62" available="true">
+        <name>Прочные Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>6656</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>41</stock_quantity>
+      </offer>
+      <offer id="63" available="true">
+        <name>Удобные Кроссовки</name>
+        <categoryId>3</categoryId>
+        <price>6699</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>17</stock_quantity>
+      </offer>
+      <offer id="64" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>7876</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>5</stock_quantity>
+      </offer>
+      <offer id="65" available="true">
+        <name>Модные Кроссовки</name>
+        <categoryId>2</categoryId>
+        <price>4302</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>44</stock_quantity>
+      </offer>
+      <offer id="66" available="true">
+        <name>Прочная Футболка</name>
+        <categoryId>1</categoryId>
+        <price>1725</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>12</stock_quantity>
+      </offer>
+      <offer id="67" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>1</categoryId>
+        <price>9662</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>44</stock_quantity>
+      </offer>
+      <offer id="68" available="true">
+        <name>Модные Ботинки</name>
+        <categoryId>4</categoryId>
+        <price>1261</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>38</stock_quantity>
+      </offer>
+      <offer id="69" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>3</categoryId>
+        <price>7674</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>43</stock_quantity>
+      </offer>
+      <offer id="70" available="true">
+        <name>Красивые Кроссовки</name>
+        <categoryId>3</categoryId>
+        <price>6982</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>21</stock_quantity>
+      </offer>
+      <offer id="71" available="true">
+        <name>Модная Куртка</name>
+        <categoryId>4</categoryId>
+        <price>6756</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>11</stock_quantity>
+      </offer>
+      <offer id="72" available="true">
+        <name>Удобная Футболка</name>
+        <categoryId>4</categoryId>
+        <price>8763</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>26</stock_quantity>
+      </offer>
+      <offer id="73" available="true">
+        <name>Красивые Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>8985</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>32</stock_quantity>
+      </offer>
+      <offer id="74" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>1</categoryId>
+        <price>2955</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>14</stock_quantity>
+      </offer>
+      <offer id="75" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>2507</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>19</stock_quantity>
+      </offer>
+      <offer id="76" available="true">
+        <name>Удобные Ботинки</name>
+        <categoryId>4</categoryId>
+        <price>7835</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>13</stock_quantity>
+      </offer>
+      <offer id="77" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>3</categoryId>
+        <price>7785</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>30</stock_quantity>
+      </offer>
+      <offer id="78" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>1</categoryId>
+        <price>3237</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>36</stock_quantity>
+      </offer>
+      <offer id="79" available="true">
+        <name>Модные Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>9134</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>19</stock_quantity>
+      </offer>
+      <offer id="80" available="true">
+        <name>Модные Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>4183</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="81" available="true">
+        <name>Прочные Ботинки</name>
+        <categoryId>2</categoryId>
+        <price>1397</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>26</stock_quantity>
+      </offer>
+      <offer id="82" available="true">
+        <name>Прочные Кроссовки</name>
+        <categoryId>3</categoryId>
+        <price>4608</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>5</stock_quantity>
+      </offer>
+      <offer id="83" available="true">
+        <name>Удобные Джинсы</name>
+        <categoryId>3</categoryId>
+        <price>3343</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>12</stock_quantity>
+      </offer>
+      <offer id="84" available="true">
+        <name>Удобная Куртка</name>
+        <categoryId>3</categoryId>
+        <price>2637</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>6</stock_quantity>
+      </offer>
+      <offer id="85" available="true">
+        <name>Красивые Ботинки</name>
+        <categoryId>4</categoryId>
+        <price>1157</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>41</stock_quantity>
+      </offer>
+      <offer id="86" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>3</categoryId>
+        <price>7894</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>20</stock_quantity>
+      </offer>
+      <offer id="87" available="true">
+        <name>Красивая Куртка</name>
+        <categoryId>4</categoryId>
+        <price>3544</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>45</stock_quantity>
+      </offer>
+      <offer id="88" available="true">
+        <name>Удобная Куртка</name>
+        <categoryId>3</categoryId>
+        <price>3924</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="89" available="true">
+        <name>Удобная Футболка</name>
+        <categoryId>2</categoryId>
+        <price>6137</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>44</stock_quantity>
+      </offer>
+      <offer id="90" available="true">
+        <name>Модные Джинсы</name>
+        <categoryId>3</categoryId>
+        <price>8151</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>28</stock_quantity>
+      </offer>
+      <offer id="91" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>4</categoryId>
+        <price>712</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="92" available="true">
+        <name>Модные Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>9392</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>9</stock_quantity>
+      </offer>
+      <offer id="93" available="true">
+        <name>Удобные Ботинки</name>
+        <categoryId>4</categoryId>
+        <price>6390</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>7</stock_quantity>
+      </offer>
+      <offer id="94" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>4</categoryId>
+        <price>4992</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>8</stock_quantity>
+      </offer>
+      <offer id="95" available="true">
+        <name>Прочные Джинсы</name>
+        <categoryId>4</categoryId>
+        <price>5238</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>30</stock_quantity>
+      </offer>
+      <offer id="96" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>3</categoryId>
+        <price>9746</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>17</stock_quantity>
+      </offer>
+      <offer id="97" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>3</categoryId>
+        <price>4443</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>44</stock_quantity>
+      </offer>
+      <offer id="98" available="true">
+        <name>Удобные Кроссовки</name>
+        <categoryId>4</categoryId>
+        <price>2995</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>14</stock_quantity>
+      </offer>
+      <offer id="99" available="true">
+        <name>Удобные Джинсы</name>
+        <categoryId>1</categoryId>
+        <price>1051</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>15</stock_quantity>
+      </offer>
+      <offer id="100" available="true">
+        <name>Красивые Джинсы</name>
+        <categoryId>4</categoryId>
+        <price>8921</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>39</stock_quantity>
+      </offer>
+      <offer id="101" available="true">
+        <name>Прочная Куртка</name>
+        <categoryId>1</categoryId>
+        <price>1463</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>1</stock_quantity>
+      </offer>
+      <offer id="102" available="true">
+        <name>Удобные Кроссовки</name>
+        <categoryId>4</categoryId>
+        <price>2652</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>18</stock_quantity>
+      </offer>
+      <offer id="103" available="true">
+        <name>Красивая Куртка</name>
+        <categoryId>1</categoryId>
+        <price>4438</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>42</stock_quantity>
+      </offer>
+      <offer id="104" available="true">
+        <name>Модные Ботинки</name>
+        <categoryId>2</categoryId>
+        <price>8574</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>33</stock_quantity>
+      </offer>
+      <offer id="105" available="true">
+        <name>Красивая Футболка</name>
+        <categoryId>3</categoryId>
+        <price>7896</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>43</stock_quantity>
+      </offer>
+      <offer id="106" available="true">
+        <name>Модные Джинсы</name>
+        <categoryId>4</categoryId>
+        <price>1266</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>40</stock_quantity>
+      </offer>
+      <offer id="107" available="true">
+        <name>Удобная Футболка</name>
+        <categoryId>1</categoryId>
+        <price>626</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>14</stock_quantity>
+      </offer>
+      <offer id="108" available="true">
+        <name>Стильная Футболка</name>
+        <categoryId>4</categoryId>
+        <price>9982</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>39</stock_quantity>
+      </offer>
+      <offer id="109" available="true">
+        <name>Прочные Ботинки</name>
+        <categoryId>4</categoryId>
+        <price>7318</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>9</stock_quantity>
+      </offer>
+      <offer id="110" available="true">
+        <name>Модная Куртка</name>
+        <categoryId>2</categoryId>
+        <price>8766</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>29</stock_quantity>
+      </offer>
+      <offer id="111" available="true">
+        <name>Модные Ботинки</name>
+        <categoryId>1</categoryId>
+        <price>2440</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>23</stock_quantity>
+      </offer>
+      <offer id="112" available="true">
+        <name>Стильные Джинсы</name>
+        <categoryId>2</categoryId>
+        <price>9698</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>31</stock_quantity>
+      </offer>
+      <offer id="113" available="true">
+        <name>Красивая Куртка</name>
+        <categoryId>2</categoryId>
+        <price>4894</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>28</stock_quantity>
+      </offer>
+      <offer id="114" available="true">
+        <name>Удобные Ботинки</name>
+        <categoryId>1</categoryId>
+        <price>3125</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>23</stock_quantity>
+      </offer>
+      <offer id="115" available="true">
+        <name>Модная Футболка</name>
+        <categoryId>1</categoryId>
+        <price>3773</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://media.gq.com/photos/5e6944f74d6be70008ac16c2/master/w_2000,h_1333,c_limit/Uniqlo-U-crew-neck-short-sleeve-T-shirt.jpg</picture>
+        <stock_quantity>20</stock_quantity>
+      </offer>
+      <offer id="116" available="true">
+        <name>Модная Футболка</name>
+        <categoryId>2</categoryId>
+        <price>1679</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>29</stock_quantity>
+      </offer>
+      <offer id="117" available="true">
+        <name>Стильная Куртка</name>
+        <categoryId>2</categoryId>
+        <price>1383</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>29</stock_quantity>
+      </offer>
+      <offer id="118" available="true">
+        <name>Красивые Джинсы</name>
+        <categoryId>3</categoryId>
+        <price>4269</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://www.logoprime.ru/upload/iblock/883/7539.40_1_1000x1000.jpg</picture>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="119" available="true">
+        <name>Стильные Ботинки</name>
+        <categoryId>2</categoryId>
+        <price>1062</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://detvorashop.ru/image/cache/catalog/mayoral_leto_2018/00000-02999/mayoral-00046-025-1-800x800.JPG</picture>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="120" available="true">
+        <name>Стильные Кроссовки</name>
+        <categoryId>4</categoryId>
+        <price>1248</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://img.joomcdn.net/b38af8b3aceac25eb71e0ba2628382964948e944_original.jpeg</picture>
+        <stock_quantity>9</stock_quantity>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
